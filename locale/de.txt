@@ -1,0 +1,30 @@
+Placed first corner of area at @1, set the second oopposite corner or click again to claim this chunk only.=Erste Ecke des Bereichs bei @1 gesetzt, zweite auf der gegenüberliegenden Ecke setzen! Oder klicke nochmal, um nur diesen Chunk zu kaufen.
+The area you've chosen intersects with one or more existing areas!=Gewählter Bereich überschneidet sich mit einem oder mehreren bestehenden Gebieten!
+Insufficient funds: @1 chunks cost @2ŧ, you only have @3ŧ.=Ungenügend Geld: @1 Chunks kosten @2ŧ, du hast aber nur @3ŧ.
+You are buying @1 Chunks (16x16 nodes) from y=@2 to @3.=Du kaufst @1 Chunks (16x16 Blöcke) von y=@2 bis @3.
+They range from @1 to @2=Diese reichen von @1 bis @2
+This costs @1ŧ=Das kostet dich @1ŧ
+Buy!=Kaufen!
+Cancel=Abbrechen
+Area of @1=Gebiet von @1
+Bought some private area=Kauf von Gebiet
+Sold some private area=Verkauf von Gebiet
+Given marker tool and reset corners!=Markierungswerkzeug gegeben und beide Ecken zurückgesetzt!!!
+Private area marker. Punch 2 corners that span a rectangle in X/Z direction.=Privatgebietsmarkierer. Klicke links auf 2 Blöcke, die in X/Z-Richtung ein Rechteck bilden. Y ist egal.
+
+#nur für den fall, dass jemand die absicht hat, das hier zusammen mit mg_villages und meiner integration dafür betrieben wird.
+#Du hast noch kein Gebiet. Nutze /protect, um den Gebietsmarkierer zu erhalten. Gebäude in Dörfern sind hiervon unabhängig.
+You don't have an area yet. Use the /protect command to create one or to extend it.=Du hast noch kein Gebiet. Nutze /protect, um den Gebietsmarkierer zu erhalten.
+Settings for @1's area=Einstellungen für das Gebiet von @1:
+#@1 will be replaced by the @ character in every case, this is to escape it. (fallback uses the simple gsub command)
+Separate player names with spaces or write '@1a' to allow all=Spielernamen mit Leerzeichen trennen, '@1a' erlaubt allen.
+Players that may right-click nodes:=Folgende Spieler dürfen Blöcke aktivieren:
+Players that may right-click nodes and change inventories:=Folgende Spieler dürfen Blöcke aktivieren und Inventare verändern:
+Players that may do everything they want:=Folgende Spieler dürfen tun, was sie wollen:
+Save!=Speichern!
+Change area name=Namen des Gebiets ändern
+Type new name:=Neuen Namen eingeben:
+Get area protection tool=Erhalte den Gebietsmarkierer.
+Sell the chunk in which you are standing.=Den Chunk, in dem du gerade stehst, wieder verkaufen.
+This one does not belong to you.=Der gehört dir nicht.
+Sold successfully.=Erfolgreich verkauft.
